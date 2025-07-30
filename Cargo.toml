@@ -1,0 +1,9 @@
+[package]
+name = "laer"
+version = "pre_0"
+edition = "2025"
+description = "A simple library with an add function"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/yourname/my_add_lib"
+
+[dependencies]
